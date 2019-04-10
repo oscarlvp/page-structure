@@ -1,0 +1,19 @@
+{
+  "name": "page-structure",
+  "version": "1.0.0",
+  "description": "Web application to show the structure of a requested page",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "parse5": "^5.1.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --use-strict www.js"
+  },
+  "author": "Oscar L. Vera",
+  "license": "ISC"
+}
