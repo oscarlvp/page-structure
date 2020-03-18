@@ -10,3 +10,5 @@ npm start
 ```
 
 then go to `http://localhost:5000` type in the text box the desired url and hit ENTER.
+
+This initial proof-of-concept has been expanded in https://github.com/KTH/L3-37-Browser
