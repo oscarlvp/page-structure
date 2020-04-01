@@ -6,7 +6,7 @@ To use run the following commands in the root directory
 
 ```
 npm install
-npm start
+npm run start
 ```
 
 then go to `http://localhost:5000` type in the text box the desired url and hit ENTER.
