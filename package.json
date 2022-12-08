@@ -4,7 +4,7 @@
   "description": "Web application to show the structure of a requested page",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "parse5": "^5.1.0",
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
